@@ -36,31 +36,31 @@
 
 - Frontend
 
-  ![Vue.js](https://img.shields.io/badge/vuejs-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
   
-  ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-  ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
   
 - Backend
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-  ![Spring Cloud Gateway](https://img.shields.io/badge/SpringCloudGateway-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+  ![Spring Cloud Gateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
   
-  ![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=flat-square&logo=gradle&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=flat-square&logo=hibernate&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=gradle&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat-square&logo=hibernate&logoColor=white)
 
 - Database
 
-  ![MariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=flat-square&logo=mariadb&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=mariadb&logoColor=white)
 
 - DevOps
 
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=white)
+  ![macOS](https://img.shields.io/badge/mac%20OS-000000?style=flat-square&logo=macos&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 <!-- Features -->
